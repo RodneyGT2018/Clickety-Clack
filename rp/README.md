@@ -32,12 +32,10 @@ When a player clicks a ball that HAS NOT already been clicked for that game, the
 
 When a player clicks a ball that HAS already been clicked for that game, you get the following message:
 
-<img width="1439" alt="ss02 1_articleblurb" src="https://user-images.githubusercontent.com/38221513/50737855-62ff1c80-119b-11e9-8a11-ab59d23ef729.png">
+<img width="1437" alt="balls03" src="https://user-images.githubusercontent.com/38221513/51007725-a00a3c80-1516-11e9-969b-7d2dc570e658.png">
 
 <br/>
 <br/>
-
 
 ## Thank You
-
 Many thanks to the fellow aspiring developers that assisted with this assigment!
